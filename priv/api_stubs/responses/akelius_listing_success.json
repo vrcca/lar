@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "address": {
+        "area": "Berlin",
+        "borough": "Moabit",
+        "city": "Berlin",
+        "houseNumber": "4",
+        "latitude": 52.5266546,
+        "longitude": 13.3301013,
+        "postalCode": "10555",
+        "streetName": "Gotzkowskystraße"
+      },
+      "availableFromNowOn": true,
+      "details": {
+        "apartmentType": "apartment",
+        "floor": 3,
+        "numberOfRooms": 1,
+        "rent": {
+          "baseRent": 820,
+          "deposit": 2460,
+          "operationalCosts": 80,
+          "totalRent": 900
+        },
+        "size": 47.04
+      },
+      "id": "7426-0018",
+      "keyfacts": {
+        "apartment-type": "apartment",
+        "floor": 3,
+        "is-available-from-now-on": false,
+        "number-of-rooms": 1,
+        "operational-costs": 80,
+        "total-rent": 900,
+        "unit-size": 47.04
+      },
+      "localization": {
+        "areaUnit": "sqm",
+        "currency": "EUR",
+        "lengthUnit": "m"
+      },
+      "teaserImageUrl": "https://mediaservice-cdn.akelius.com/download/ak-assets-b28ad2c5-1d9b-11ea-b81a-0a580ae9495c/600",
+      "type": "living"
+    },
+    {
+      "address": {
+        "area": "Berlin",
+        "borough": "Kreuzberg",
+        "city": "Berlin",
+        "houseNumber": "46A",
+        "latitude": 52.4891105,
+        "longitude": 13.375109,
+        "postalCode": "10965",
+        "streetName": "Kreuzbergstraße"
+      },
+      "availableFromNowOn": true,
+      "details": {
+        "apartmentType": "apartment",
+        "floor": 3,
+        "numberOfRooms": 1,
+        "rent": {
+          "baseRent": 800,
+          "deposit": 2400,
+          "heatingCosts": 35,
+          "operationalCosts": 35,
+          "totalRent": 870
+        },
+        "size": 27.4
+      },
+      "id": "7602-0021",
+      "keyfacts": {
+        "apartment-type": "apartment",
+        "floor": 3,
+        "is-available-from-now-on": true,
+        "number-of-rooms": 1,
+        "operational-costs": 35,
+        "total-rent": 870,
+        "unit-size": 27.4
+      },
+      "localization": {
+        "areaUnit": "sqm",
+        "currency": "EUR",
+        "lengthUnit": "m"
+      },
+      "teaserImageUrl": "https://mediaservice-cdn.akelius.com/download/ak-assets-504c0d88-0c5b-11ea-a026-0a580ae943c2/600",
+      "type": "living"
+    }
+  ]
+}
