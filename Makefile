@@ -15,10 +15,9 @@ start:
 	PORT=$(PORT) mix run --no-halt
 
 test:
-	mix format && \
 	$(MAKE) unit-test && \
 	$(MAKE) start-dependencies && \
-	$(MAKE) integration-test; \
+	$(MAKE) integration-test && \
 	$(MAKE) stop-dependencies
 
 unit-test:
